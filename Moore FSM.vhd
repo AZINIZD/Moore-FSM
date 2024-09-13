@@ -67,3 +67,4 @@ begin
     y <= '1' when state = S3 else '0';
 
 end Behavioral;
+            
