@@ -50,3 +50,4 @@ if __name__ == "__main__":
 
     for bit, output in zip(input_sequence, outputs):
         print(f"Input: {bit}, Output: {output}")
+        
